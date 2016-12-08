@@ -1,0 +1,17 @@
+D:\Users\Liam\Downloads\OKTW Predictioner\bin\Debug\OKTW Predictioner.exe.config
+D:\Users\Liam\Downloads\OKTW Predictioner\bin\Debug\OKTW Predictioner.exe
+D:\Users\Liam\Downloads\OKTW Predictioner\bin\Debug\OKTW Predictioner.pdb
+D:\Users\Liam\Downloads\OKTW Predictioner\bin\Debug\LeagueSharp.Common.dll
+D:\Users\Liam\Downloads\OKTW Predictioner\bin\Debug\LeagueSharp.dll
+D:\Users\Liam\Downloads\OKTW Predictioner\bin\Debug\SebbyLib.dll
+D:\Users\Liam\Downloads\OKTW Predictioner\bin\Debug\SharpDX.dll
+D:\Users\Liam\Downloads\OKTW Predictioner\bin\Debug\SharpDX.Direct3D9.dll
+D:\Users\Liam\Downloads\OKTW Predictioner\bin\Debug\LeagueSharp.Data.dll
+D:\Users\Liam\Downloads\OKTW Predictioner\bin\Debug\clipper_library.dll
+D:\Users\Liam\Downloads\OKTW Predictioner\bin\Debug\Newtonsoft.Json.dll
+D:\Users\Liam\Downloads\OKTW Predictioner\bin\Debug\LeagueSharp.Common.pdb
+D:\Users\Liam\Downloads\OKTW Predictioner\bin\Debug\SebbyLib.pdb
+D:\Users\Liam\Downloads\OKTW Predictioner\bin\Debug\LeagueSharp.Data.pdb
+D:\Users\Liam\Downloads\OKTW Predictioner\bin\Debug\clipper_library.pdb
+D:\Users\Liam\Downloads\OKTW Predictioner\obj\x86\Debug\OKTW Predictioner.exe
+D:\Users\Liam\Downloads\OKTW Predictioner\obj\x86\Debug\OKTW Predictioner.pdb
